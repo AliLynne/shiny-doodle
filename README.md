@@ -1,0 +1,4 @@
+- get the list of .md files in the posts folder
+- I format each file into a .html version and save it to disk
+- I generate the index by rendering an index template
+- I copy over all static assets to the output directory
